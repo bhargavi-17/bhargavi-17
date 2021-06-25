@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhargavi-17
-- 👀 I’m interested in frontend devlopment
+- 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning react js
 
 <!---
